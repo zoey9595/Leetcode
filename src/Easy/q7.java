@@ -3,7 +3,7 @@ package Easy;
 import java.sql.Array;
 import java.util.Arrays;
 
-public class _007ReverseInteger {
+public class q7 {
 
     public static int reverse(int x) {
 

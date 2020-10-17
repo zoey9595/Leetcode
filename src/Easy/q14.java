@@ -1,6 +1,6 @@
 package Easy;
 
-public class _014LongestCommonPrefix {
+public class q14 {
 
     public static String longestCommonPrefix(String[] strs) {
 

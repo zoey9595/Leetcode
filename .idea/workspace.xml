@@ -2,11 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dbebd825-2b43-4778-bbdf-aec8835cea40" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Easy/_021MergeTwoSortedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Easy/q168.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Easy/q5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Easy/q53.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hard/q72.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Medium/q11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Medium/q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Medium/q208.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Medium/q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Medium/q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Others/Concurrent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Others/DP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Others/Reflect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Others/ReflectTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Others/Sorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Others/Wangyi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Others/Wangyi2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Easy/_001TwoSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Easy/_001TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Easy/q1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Easy/_007ReverseInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Easy/q7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Easy/_009Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Easy/q9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Easy/_013RomanToInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Easy/q13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Easy/_014LongestCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Easy/q14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Easy/_020ValidParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Easy/q20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Easy/_021MergeTwoSortedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Easy/q21.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,35 +37,6 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Easy/_020ValidParentheses.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="39" lean-forward="true" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Easy/_021MergeTwoSortedLists.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="23" column="20" lean-forward="true" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
-              <folding>
-                <element signature="e#149#150#0" expanded="true" />
-                <element signature="e#185#186#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -61,83 +55,70 @@
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/Easy/_001TwoSum.java" />
-        <option value="$PROJECT_DIR$/src/Easy/_007ReverseInteger.java" />
-        <option value="$PROJECT_DIR$/src/Easy/_009Palindrome.java" />
-        <option value="$PROJECT_DIR$/src/Easy/_013RomanToInteger.java" />
-        <option value="$PROJECT_DIR$/src/Easy/_014LongestCommonPrefix.java" />
-        <option value="$PROJECT_DIR$/src/Easy/_020ValidParentheses.java" />
-        <option value="$PROJECT_DIR$/src/Easy/_021MergeTwoSortedLists.java" />
-      </list>
-    </option>
+  <component name="ProjectId" id="1h8W0bwDXPUXapj51hY69QAA2n6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="960" />
-    <option name="y" value="23" />
-    <option name="width" value="960" />
-    <option name="height" value="1057" />
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Easy" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application._020ValidParentheses">
-    <configuration name="_007ReverseInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Easy._007ReverseInteger" />
+  <component name="RunManager" selected="Application.Wangyi2">
+    <configuration name="Reflect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Others.Reflect" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Others.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Wangyi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Others.Wangyi" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Others.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Wangyi2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Others.Wangyi2" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Others.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Easy.q5" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
@@ -149,8 +130,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_009Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Easy._009Palindrome" />
+    <configuration name="q53" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Easy.q53" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
@@ -162,52 +143,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_013RomanToInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Easy._013RomanToInteger" />
-      <module name="Leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_014LongestCommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Easy._014LongestCommonPrefix" />
-      <module name="Leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_020ValidParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Easy._020ValidParentheses" />
-      <module name="Leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <list>
+      <item itemvalue="Application.q5" />
+      <item itemvalue="Application.q53" />
+      <item itemvalue="Application.Reflect" />
+      <item itemvalue="Application.Wangyi" />
+      <item itemvalue="Application.Wangyi2" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._020ValidParentheses" />
-        <item itemvalue="Application._014LongestCommonPrefix" />
-        <item itemvalue="Application._013RomanToInteger" />
-        <item itemvalue="Application._009Palindrome" />
-        <item itemvalue="Application._007ReverseInteger" />
+        <item itemvalue="Application.Wangyi2" />
+        <item itemvalue="Application.Wangyi" />
+        <item itemvalue="Application.q5" />
+        <item itemvalue="Application.Reflect" />
+        <item itemvalue="Application.q53" />
       </list>
     </recent_temporary>
   </component>
@@ -224,7 +173,13 @@
       <workItem from="1561453837612" duration="2767000" />
       <workItem from="1561457929701" duration="551000" />
       <workItem from="1561459407379" duration="700000" />
-      <workItem from="1561505422446" duration="14149000" />
+      <workItem from="1561505422446" duration="17187000" />
+      <workItem from="1563758863868" duration="413000" />
+      <workItem from="1563970062087" duration="85000" />
+      <workItem from="1563970289789" duration="26000" />
+      <workItem from="1575240955274" duration="135000" />
+      <workItem from="1575241141829" duration="170000" />
+      <workItem from="1575241349028" duration="386000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1561456586856</created>
@@ -275,46 +230,18 @@
       <option name="project" value="LOCAL" />
       <updated>1562215853796</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Finish 021 Merge Two Sorted Lists">
+      <created>1562217275261</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1562217275261</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18167000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="960" y="23" width="960" height="1057" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2657952" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49891067" visible="true" weight="0.32953367" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.36165804" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32953367" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50108933" side_tool="true" weight="0.32953367" />
-      <window_info anchor="bottom" id="Messages" order="12" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" />
-      <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-    </layout>
+    <option name="totallyTimeSpent" value="22420000" />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -326,71 +253,91 @@
     <MESSAGE value="Finish 013 Roman to Integer" />
     <MESSAGE value="Finish 014 Longest Common Prefix" />
     <MESSAGE value="Finish 020 Valid Parentheses" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finish 020 Valid Parentheses" />
+    <MESSAGE value="Finish 021 Merge Two Sorted Lists" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finish 021 Merge Two Sorted Lists" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Easy/_001TwoSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Easy/_007ReverseInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Easy/_009Palindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Easy/_013RomanToInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Easy/_014LongestCommonPrefix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="901">
-          <caret line="53" column="74" selection-start-line="53" selection-start-column="74" selection-end-line="53" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Easy/_020ValidParentheses.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="39" lean-forward="true" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Easy/_021MergeTwoSortedLists.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="23" column="20" lean-forward="true" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
-          <folding>
-            <element signature="e#149#150#0" expanded="true" />
-            <element signature="e#185#186#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="2480" y="217" key="#Inspections" timestamp="1601119140523">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2480" y="217" key="#Inspections/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1601119140523" />
+    <state x="2289" y="213" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601202796504">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2289" y="213" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1601202796504" />
+    <state x="693" y="271" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601208625597">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="693" y="271" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877@0.23.1440.877" timestamp="1601208625597" />
+    <state x="2732" y="447" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1599392983029">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2732" y="447" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1599392983029" />
+    <state width="678" height="255" key="GridCell.Tab.0.bottom" timestamp="1601213442211">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="678" height="255" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1601213442211" />
+    <state width="897" height="194" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1601212603778" />
+    <state width="918" height="220" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1601203833643" />
+    <state width="678" height="255" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1601212089577" />
+    <state width="678" height="255" key="GridCell.Tab.0.center" timestamp="1601213442210">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="678" height="255" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1601213442210" />
+    <state width="897" height="194" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1601212603777" />
+    <state width="918" height="220" key="GridCell.Tab.0.center/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1601203833642" />
+    <state width="678" height="255" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1601212089576" />
+    <state width="678" height="255" key="GridCell.Tab.0.left" timestamp="1601213442210">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="678" height="255" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1601213442210" />
+    <state width="897" height="194" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1601212603777" />
+    <state width="918" height="220" key="GridCell.Tab.0.left/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1601203833642" />
+    <state width="678" height="255" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1601212089575" />
+    <state width="678" height="255" key="GridCell.Tab.0.right" timestamp="1601213442211">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="678" height="255" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1601213442211" />
+    <state width="897" height="194" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1601212603777" />
+    <state width="918" height="220" key="GridCell.Tab.0.right/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1601203833643" />
+    <state width="678" height="255" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1601212089576" />
+    <state width="678" height="255" key="GridCell.Tab.1.bottom" timestamp="1601213442212">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="678" height="255" key="GridCell.Tab.1.bottom/0.23.1440.828@0.23.1440.828" timestamp="1601213442212" />
+    <state width="918" height="320" key="GridCell.Tab.1.bottom/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1601189337448" />
+    <state width="678" height="255" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1601212089578" />
+    <state width="678" height="255" key="GridCell.Tab.1.center" timestamp="1601213442211">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="678" height="255" key="GridCell.Tab.1.center/0.23.1440.828@0.23.1440.828" timestamp="1601213442211" />
+    <state width="918" height="320" key="GridCell.Tab.1.center/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1601189337448" />
+    <state width="678" height="255" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1601212089577" />
+    <state width="678" height="255" key="GridCell.Tab.1.left" timestamp="1601213442211">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="678" height="255" key="GridCell.Tab.1.left/0.23.1440.828@0.23.1440.828" timestamp="1601213442211" />
+    <state width="918" height="320" key="GridCell.Tab.1.left/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1601189337448" />
+    <state width="678" height="255" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1601212089577" />
+    <state width="678" height="255" key="GridCell.Tab.1.right" timestamp="1601213442212">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="678" height="255" key="GridCell.Tab.1.right/0.23.1440.828@0.23.1440.828" timestamp="1601213442212" />
+    <state width="918" height="320" key="GridCell.Tab.1.right/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1601189337448" />
+    <state width="678" height="255" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1601212089578" />
+    <state x="2545" y="256" key="run.anything.popup" timestamp="1601119602985">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2545" y="256" key="run.anything.popup/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1601119602985" />
+    <state x="1585" y="258" width="670" height="676" key="search.everywhere.popup" timestamp="1601200927360">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1585" y="258" width="670" height="676" key="search.everywhere.popup/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1601200927360" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Leetcode$Main2.ic" NAME="Main2 Coverage Results" MODIFIED="1600317372348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Easy.*</FILTER>
+    </SUITE>
   </component>
   <component name="masterDetails">
     <states>

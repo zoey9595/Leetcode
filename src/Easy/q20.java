@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Stack;
 
-public class _020ValidParentheses {
+public class q20 {
 
     static final char OPEN_PARENTHESE = '(';
     static final char CLOSE_PARENTHESE = ')';

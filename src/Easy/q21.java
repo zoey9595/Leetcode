@@ -1,6 +1,6 @@
 package Easy;
 
-public class _021MergeTwoSortedLists {
+public class q21 {
 
     public class ListNode {
 

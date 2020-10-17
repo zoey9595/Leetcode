@@ -1,6 +1,6 @@
 package Easy;
 
-public class _009Palindrome {
+public class q9 {
 
     public static boolean isPalindrome(int x) {
 

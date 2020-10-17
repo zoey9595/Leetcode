@@ -2,7 +2,7 @@ package Easy;
 
 import java.util.HashMap;
 
-public class _013RomanToInteger {
+public class q13 {
 
     public static int romanToInt(String s) {
 
